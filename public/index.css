@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 1rem;
+  background-color: #23292e;
+  font-family: sans-serif;
+  color: #c6d1db;
+}
+
+main {
+  width: 100%;
+  max-width: 40rem;
+  margin-inline: auto;
+  margin-block: 4rem;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  background-color: #343f48;
+  text-align: center;
+}
