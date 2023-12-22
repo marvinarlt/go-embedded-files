@@ -1,6 +1,6 @@
-# Example: Embeded files in GO binary
+# Example: Embedded files in GO binary
 
-This is an basic example on how to embed static files in a GO binary. The actual magic happens via the native `//go:embed directory/*` directive.
+This is an basic example of how to embed static files in a GO binary. The actual magic happens via the native `//go:embed directory/*` directive.
 
 ## Getting started
 
